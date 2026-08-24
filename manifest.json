@@ -1,24 +1,13 @@
 {
-  "name": "Dolce Vita LED Banner",
-  "short_name": "LED Banner",
-  "description": "Control your Dolce Vita LED Banner display",
-  "start_url": "./index.html",
+  "name": "Banner Bis 3x3",
+  "short_name": "Banner Bis",
+  "description": "Editor slide e controllo LED banner 3x3 pannelli",
+  "start_url": "./",
   "display": "standalone",
-  "background_color": "#0a0a0f",
-  "theme_color": "#4ecdc4",
-  "orientation": "portrait",
+  "background_color": "#0a0a0a",
+  "theme_color": "#00c8ff",
   "icons": [
-    {
-      "src": "icon-192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon-512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
