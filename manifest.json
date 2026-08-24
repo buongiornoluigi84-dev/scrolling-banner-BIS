@@ -1,6 +1,6 @@
 {
-  "name": "Banner Bis 3x3",
-  "short_name": "Banner Bis",
+  "name": "Banner display 3x3",
+  "short_name": "Banner display ",
   "description": "Editor slide e controllo LED banner 3x3 pannelli",
   "start_url": "./",
   "display": "standalone",
